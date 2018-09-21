@@ -10,7 +10,7 @@ end
 class ClassFilha < ClassMae
 
     def correr
-        puts super
+        super
         puts 'cansei'
     end
 
