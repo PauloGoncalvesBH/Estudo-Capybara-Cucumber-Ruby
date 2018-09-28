@@ -1,5 +1,6 @@
 #language: pt
 
+@primeiro @tag2cenarios
 Funcionalidade: Fazer uma soma.
 
 -Eu como usuario
